@@ -1,7 +1,9 @@
 # Benchmarking Graph Neural Networks for fMRI analysis
 
 This is the original implementation of the paper [Benchmarking Graph Neural Networks for fMRI analysis](https://arxiv.org/abs/2211.08927)
-
+<p align="center">
+  <img src=img.png>
+</p>
 ## Requirements
 - python 3.9+
 - see `requirements.txt`
