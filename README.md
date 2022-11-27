@@ -4,6 +4,7 @@ This is the original implementation of the paper [Benchmarking Graph Neural Netw
 <p align="center">
   <img src=img.png>
 </p>
+
 ## Requirements
 - python 3.9+
 - see `requirements.txt`
